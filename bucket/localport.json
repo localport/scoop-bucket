@@ -1,12 +1,12 @@
 {
-    "version": "0.8.0",
+    "version": "0.9.0",
     "description": "Secure tunnels and identity-based remote access to devices",
     "homepage": "https://localport.io",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/localport/agent/releases/download/v0.8.0/localport-windows-amd64.exe#/localport.exe",
-            "hash": "7f2982548dfe597f6515817a198e4a3634a1723e2fe40cf28a58ddc5065d2833"
+            "url": "https://github.com/localport/agent/releases/download/v0.9.0/localport-windows-amd64.exe#/localport.exe",
+            "hash": "495f172fdc8fcf234d774bb40dc1247db91a478b7ebcf4fb2bb2fef335aff1a0"
         }
     },
     "bin": "localport.exe",
